@@ -1,8 +1,6 @@
 import React  from "react";
 import ReactDOM from "react-dom/client" ; //18
-// import ReactDOM from "react-dom";  //17
-
-//shinymoonchi
+// import ReactDOM from "react-dom";  //1
 import "./index.css";
  
 
